@@ -13,7 +13,9 @@ Meu objetivo é desenvolver novas habilidades na programação  e contribuir com
 <br>
   <img align="center" alt="JavaScript" height="40" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor">
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> <br>
+   <img align="center" alt="Scrum" height="40" width="60" src="https://arquivo.devmedia.com.br/marketing/img/guia-scrum-34636.png">
+
 
 </div>
 <br> 
