@@ -1,33 +1,35 @@
-## Olá! me chamo Mirelly 👋🏾
-seja bem vindo ao meu perfil no  GitHub! 
+Olá! Eu sou a Mirelly 👋🏾
 
-Atualmente, estou cursando Técnico  em Desenvolvimento de Sistemas pelo Senac Gravataí. <br>
-Meu objetivo é desenvolver novas habilidades na programação  e contribuir com a comunidade de tecnologia. <br>
+Seja bem-vindo(a) ao meu GitHub!
 
+Sou formada em Técnico em Desenvolvimento de Sistemas pelo Senac Gravataí e fui selecionada para o Geração Caldeira 2026.
 
-### Conhecimentos básicos: 
-<div style="display: inline_block">
-<img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"> 
-  <img align="center" alt="MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg">
-  
-<br>
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor">
-  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> <br>
-   <img align="center" alt="Scrum" height="40" width="60" src="https://arquivo.devmedia.com.br/marketing/img/guia-scrum-34636.png">
+A programação se tornou uma área na qual encontrei espaço para aprender, desenvolver novas habilidades e crescer pessoal e profissionalmente. Gosto de colocar meus conhecimentos em prática por meio de projetos e explorar novas tecnologias.
 
+💻 Tecnologias e ferramentas
 
-</div>
-<br> 
+Tenho conhecimentos e experiências com:
 
-e estou sempre em busca de aprender mais e aprimorar minhas habilidades.<br>
-Sinta-se à vontade para explorar meus projetos e entrar em contato!
+- Linguagens: Java, JavaScript e Python.
+- Desenvolvimento Web: HTML e CSS.
+- Back-end: Spring Boot e FastAPI.
+- Banco de dados: MySQL e SQLite.
+- Ferramentas: Git, GitHub e Scrum.
 
-<div> 
- <a href="https://www.instagram.com/miih_rm_gomes?igsh=MWowbzUzMDhtbGEydw==" target="_blank"><img   src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/mirelly-fgomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  futuro link para linkdin -->
-  
-</div> 
+🚀 Projetos
+
+Aqui compartilho projetos acadêmicos e pessoais que desenvolvo durante minha jornada na tecnologia. Cada um representa uma oportunidade de aprender algo novo, experimentar ferramentas e aprimorar minhas habilidades.
+
+🌱 Um pouco sobre mim
+
+- Técnica em Desenvolvimento de Sistemas.
+- Participante do Geração Caldeira 2026.
+- Interessada em desenvolvimento de software e novas tecnologias.
+- Sempre buscando novos desafios e oportunidades de aprendizado.
+- Pretendo seguir minha formação por meio de uma graduação na área de tecnologia.
+
+📫 Vamos nos conectar?
+
+<a href="https://www.linkedin.com/in/mirelly-fgomes/">LinkedIn</a>
 
 
